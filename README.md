@@ -1,3 +1,3 @@
 # DM
-First respitory, this is super great.
+First respitory.... this is super great.
 Database Management
